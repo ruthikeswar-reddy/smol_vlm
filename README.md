@@ -9,7 +9,7 @@ smolVLM/
 ├── data/           # Directory for storing datasets and model weights
 ├── notebooks/      # Jupyter notebooks for experiments and examples
 │   ├── smolvlm_lpd.ipynb  # License Plate Detection implementation
-│   └── smolvlm_vin.ipynb  # Visual Instruction Navigation implementation
+│   └── smolvlm_vin.ipynb  # VIN Detection
 ├── smolVLM/        # Main package directory
 └── requirements.txt # Project dependencies
 ```
@@ -52,7 +52,7 @@ The project requires the following main dependencies:
 
 The project includes two main implementations:
 
-1. **Visual Instruction Navigation (VIN)**
+1. ** (VIN)**
    - Located in `notebooks/smolvlm_vin.ipynb`
    - Implements navigation tasks based on visual and textual instructions
 
@@ -68,7 +68,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add license information here]
+[Ruthikeswar]
 
 ## Acknowledgments
 
