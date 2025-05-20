@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+einops
+timm
+pillow
+transformers
+huggingface-hub
