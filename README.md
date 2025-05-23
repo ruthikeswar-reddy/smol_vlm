@@ -1,6 +1,6 @@
 # SmolVLM
 
-SmolVLM is a lightweight Vision Language Model implementation that leverages Hugging Face's transformers library for efficient image-text understanding tasks. The project includes implementations for Visual Instruction Navigation (VIN) and License Plate Detection (LPD) tasks.
+SmolVLM is a lightweight Vision Language Model implementation that leverages Hugging Face's transformers library for efficient image-text understanding tasks. The project includes implementations for (VIN) and License Plate Detection (LPD) tasks.
 
 ## Project Structure
 
@@ -9,7 +9,7 @@ smolVLM/
 ├── data/           # Directory for storing datasets and model weights
 ├── notebooks/      # Jupyter notebooks for experiments and examples
 │   ├── smolvlm_lpd.ipynb  # License Plate Detection implementation
-│   └── smolvlm_vin.ipynb  # Visual Instruction Navigation implementation
+│   └── smolvlm_vin.ipynb  # VIN Detection
 ├── smolVLM/        # Main package directory
 └── requirements.txt # Project dependencies
 ```
@@ -44,7 +44,7 @@ The project requires the following main dependencies:
 - Lightweight Vision Language Model implementation
 - Integration with Hugging Face's transformers library
 - Support for various image-text understanding tasks including:
-  - Visual Instruction Navigation (VIN)
+  - Vehicle Identification Number (VIN)
   - License Plate Detection (LPD)
 - Jupyter notebook examples for each implemented task
 
@@ -52,9 +52,8 @@ The project requires the following main dependencies:
 
 The project includes two main implementations:
 
-1. **Visual Instruction Navigation (VIN)**
+1. ** (VIN)**
    - Located in `notebooks/smolvlm_vin.ipynb`
-   - Implements navigation tasks based on visual and textual instructions
 
 2. **License Plate Detection (LPD)**
    - Located in `notebooks/smolvlm_lpd.ipynb`
@@ -68,7 +67,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add license information here]
+[Ruthikeswar]
 
 ## Acknowledgments
 
